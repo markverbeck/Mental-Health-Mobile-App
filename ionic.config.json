@@ -1,0 +1,7 @@
+{
+  "name": "Mental Health Mobile App",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
